@@ -7,7 +7,6 @@
 
 # Code by: Paola A. Carvajal Almeida
 # paola.antonieta@gmail.com
-# (C1) ucb-virt-fin-pt-06-2021-u-b
 
 
 import csv
